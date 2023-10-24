@@ -9,9 +9,9 @@ Ich möchte in dieser Lernperiode einen Budget-Berechner, also Auftrag Nr.2 prog
 
 ## Arbeitspakete für 29.08.2023
 
-- [] 
-- [] 
-- []
+- [ ] 
+- [ ] 
+- [ ]
 
 Bemerkungen:
 
