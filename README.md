@@ -19,6 +19,17 @@ Ich habe erfolgreich mein Interface auf Notion angepasst, einen Auftrag im Modul
 
 ## Arbeitspakete für 31.10.2023
 
-- [ ] In Notion meine Angaben anpassen 
-- [ ] Eingaben von Benutzer validieren und speichern in VS implementieren
-- [ ] In VS Berechnung des Budgets mit regelmässigen Ein- und Ausgabe implementieren
+- [x] In Notion meine Angaben anpassen 
+- [x] Eingaben von Benutzer validieren und speichern in VS implementieren
+- [x] In VS Berechnung des Budgets mit regelmässigen Ein- und Ausgabe implementieren
+
+  Bemerkungen:
+  Ich habe wie geplant meinen Plan in Notion angepass wie ich es mir vorgestellt habe. Dazu habe ich auch noch einige Optische Features angepasst sodass es mir besser gefällt. Für den Budget-Assistent habe     ich zuerst auf Youtube ein turtorial gesucht jedoch nichts gefunden kurz darauf wurde ich in einem Forum fündig und konnte los Programmieren. Ich konnte im VS regelmässige ein und ausgaben implementieren.
+
+## Arbeitspakete für 7.11.2023
+
+- [ ] Für das Mittwoch Modul vor Arbeiten
+- [ ] Mein Budget Assistent verbessern in dem ich nicht nötige extrazeilen identifiziere und lösche
+- [ ] Für das Projekt am Montag weiterarbeiten.
+
+
