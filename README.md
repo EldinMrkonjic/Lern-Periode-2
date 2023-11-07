@@ -29,7 +29,13 @@ Ich habe erfolgreich mein Interface auf Notion angepasst, einen Auftrag im Modul
 ## Arbeitspakete für 7.11.2023
 
 - [ ] Für das Mittwoch Modul vor Arbeiten
-- [ ] Mein Budget Assistent verbessern in dem ich nicht nötige extrazeilen identifiziere und lösche
+- [x] Mein Budget Assistent verbessern in dem ich nicht nötige extrazeilen identifiziere und lösche
+- [x] Für das Projekt am Montag weiterarbeiten.
+
+ Bemerkungen:
+Ich konnte heute 2 von meinen 3 gestzten Zielen erfolgreich bearbeiten und mein Projekt fast fertigstellen. Zu der Verbesserung meines Budget Assistenten habe ich noch verschieden Youtube videos geschaut wie andere so etwas Programmiert haben um mich noch einwenig inspierieren zu lassen. Auch konnte ich und meine Gruppenmitglieder erfolgreich an unserem Projekt für den Montag witerarbeiten und in eine gute richtung fortschreiten. 
+
+## Arbeitspakete für 14.11.2023
+- [ ] Für das Mittwoch Modul nacharbeiten
+- [ ] Mein ILA Projekt fertigstellen
 - [ ] Für das Projekt am Montag weiterarbeiten.
-
-
