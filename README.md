@@ -36,6 +36,13 @@ Ich habe erfolgreich mein Interface auf Notion angepasst, einen Auftrag im Modul
 Ich konnte heute 2 von meinen 3 gestzten Zielen erfolgreich bearbeiten und mein Projekt fast fertigstellen. Zu der Verbesserung meines Budget Assistenten habe ich noch verschieden Youtube videos geschaut wie andere so etwas Programmiert haben um mich noch einwenig inspierieren zu lassen. Auch konnte ich und meine Gruppenmitglieder erfolgreich an unserem Projekt für den Montag witerarbeiten und in eine gute richtung fortschreiten. 
 
 ## Arbeitspakete für 14.11.2023
-- [ ] Für das Mittwoch Modul nacharbeiten
+- [x] Für das Mittwoch Modul nacharbeiten
 - [ ] Mein ILA Projekt fertigstellen
-- [ ] Für das Projekt am Montag weiterarbeiten.
+- [x] Für das Projekt am Montag weiterarbeiten.
+
+  Bemerkungen: Ich habe mein bestes gegeben um alle gesetzte Ziele zu erreichen habe jedoch nur 2 von 3 Zielen erledigen können. Für das erste Ziel habe ich mich bei meinen Freunden erkundigt was wir am vergangenem Mittwoch gemchat haben. Für Ziel Nr. 3 habe ich mit meiner Gruppe zusammen besprochen was wir besser machen könnten und witer am code geschrieben.
+
+## Arbeitspakete für 21.11.2023
+- [ ] Mein ILA Projekt fertigstellen
+- [ ] Arbeitsplan in Notion anpassen
+- [ ] Programmierprojekt für Montag weiterarbeiten
