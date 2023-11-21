@@ -43,6 +43,13 @@ Ich konnte heute 2 von meinen 3 gestzten Zielen erfolgreich bearbeiten und mein 
   Bemerkungen: Ich habe mein bestes gegeben um alle gesetzte Ziele zu erreichen habe jedoch nur 2 von 3 Zielen erledigen können. Für das erste Ziel habe ich mich bei meinen Freunden erkundigt was wir am vergangenem Mittwoch gemchat haben. Für Ziel Nr. 3 habe ich mit meiner Gruppe zusammen besprochen was wir besser machen könnten und witer am code geschrieben.
 
 ## Arbeitspakete für 21.11.2023
-- [ ] Mein ILA Projekt fertigstellen
-- [ ] Arbeitsplan in Notion anpassen
+- [-] Mein ILA Projekt fertigstellen
+- [x] Arbeitsplan in Notion anpassen
+- [x] Programmierprojekt für Montag weiterarbeiten
+
+Bemerkungen: Ich habe heute meinen Arbeitsplan in Notion für die kommenden Wochen für die Kanti und BBB angepasst da in nächster Zeit einige wichtige Prüfungen und abgaben auf uns zukommen. Ich habe detailierter eingetragen wann ich was habe bzw. Fächer und mir Felder erstellt in welchen ich direkt Notizen einfügen kann. Dannach habe ich und meine Gruppe noch an unserem Programmierprojekt weitergearbeitet und habe mich informiert wie man eine passende website dazu machen kann. Leider habe ich mein ILA Projekt nicht fertigstellen können.
+
+## Arbeitspakete für 28.11.2023
+- [ ] Mein ILA Projekt hoffentlich fertigstellen
+- [ ] Arbeitsplan in Notion überarbeiten
 - [ ] Programmierprojekt für Montag weiterarbeiten
