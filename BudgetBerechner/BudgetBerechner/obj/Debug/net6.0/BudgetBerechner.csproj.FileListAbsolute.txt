@@ -1,0 +1,14 @@
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\obj\Debug\net6.0\BudgetBerechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\obj\Debug\net6.0\BudgetBerechner.AssemblyInfoInputs.cache
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\obj\Debug\net6.0\BudgetBerechner.AssemblyInfo.cs
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\obj\Debug\net6.0\BudgetBerechner.csproj.CoreCompileInputs.cache
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\bin\Debug\net6.0\BudgetBerechner.exe
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\bin\Debug\net6.0\BudgetBerechner.deps.json
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\bin\Debug\net6.0\BudgetBerechner.runtimeconfig.json
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\bin\Debug\net6.0\BudgetBerechner.dll
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\bin\Debug\net6.0\BudgetBerechner.pdb
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\obj\Debug\net6.0\BudgetBerechner.dll
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\obj\Debug\net6.0\refint\BudgetBerechner.dll
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\obj\Debug\net6.0\BudgetBerechner.pdb
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\obj\Debug\net6.0\BudgetBerechner.genruntimeconfig.cache
+C:\Users\eldin\source\repos\BudgetBerechner\BudgetBerechner\obj\Debug\net6.0\ref\BudgetBerechner.dll
