@@ -63,3 +63,7 @@ Bemerkungen: Heute war ein sehr produktiver Morgen, ich habe zwar mein 1. Ziel n
 
       Bemerkungen: Heute habe ich endlich mein Budgetberechner fertig stellen können was sich echt gut angefühlt hat. Ich habe den grössten Teil vom Code selber geschrieben und habe für den Rest von Chat Gpt schreiben lassen, jedoch habe ich verstanden warum
       Gpt darauf gekommen ist. Dazu habe ich auch alles nötige in Notion angepasst so wie ich es wollte und bin mit der jetzigen Form zufrieden. Auch mit dem Programmierprojekt für Montag sind wir erfolgreich fertig geworden.
+
+## Arbeitspakete für 12.12.2023
+- [ ] AOC Lösen
+
