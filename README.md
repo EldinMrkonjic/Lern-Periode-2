@@ -57,6 +57,9 @@ Bemerkungen: Ich habe heute meinen Arbeitsplan in Notion für die kommenden Woch
 Bemerkungen: Heute war ein sehr produktiver Morgen, ich habe zwar mein 1. Ziel nicht erreicht jedoch konnte ich fragen die ich dazu hatte klären in dem ich Tom gefragt habe. Meinen Arbeitsplan habe ich auch anpassen können, jetzt weiss ich wann ich welchen Test habe und wann ich anfangen sollte zu lernen damit ich eine gute Note schreiben werde. Mit unserem Programierprojekt sieht es sehr gut aus, wir sind bereits fertig mit dem Code und unsere Kundin ist auch zufrieden, jetzt sind wir dran, ein attracktives Interface zu Gestalten.
 
 ## Arbeitspakete für 5.12.2023
-- [ ] Mein ILA Projekt hoffentlich fertigstellen
-- [ ] Arbeitsplan in Notion überarbeiten
-- [ ] Programmierprojekt für Montag weiterarbeiten
+- [x] Mein ILA Projekt hoffentlich fertigstellen
+- [x] Arbeitsplan in Notion überarbeiten
+- [x] Programmierprojekt für Montag weiterarbeiten
+
+      Bemerkungen: Heute habe ich endlich mein Budgetberechner fertig stellen können was sich echt gut angefühlt hat. Ich habe den grössten Teil vom Code selber geschrieben und habe für den Rest von Chat Gpt schreiben lassen, jedoch habe ich verstanden warum
+      Gpt darauf gekommen ist. Dazu habe ich auch alles nötige in Notion angepasst so wie ich es wollte und bin mit der jetzigen Form zufrieden. Auch mit dem Programmierprojekt für Montag sind wir erfolgreich fertig geworden.
