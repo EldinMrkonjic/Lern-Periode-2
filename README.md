@@ -65,5 +65,11 @@ Bemerkungen: Heute habe ich endlich mein Budgetberechner fertig stellen können 
 Gpt darauf gekommen ist. Dazu habe ich auch alles nötige in Notion angepasst so wie ich es wollte und bin mit der jetzigen Form zufrieden. Auch mit dem Programmierprojekt für Montag sind wir erfolgreich fertig geworden.
 
 ## Arbeitspakete für 12.12.2023
-- [ ] AOC Lösen
+- [-] AOC Lösen
 
+Bemerkungen: Ich habe versucht beim AOC anzufangen, ich habe damit gestartet mir die Aufgabendurchzulesen und habe dann Videos dazu gechaut wie man am besten dabei vorgeht sie zu lösen. Nach ca 2 Stunden habe ich aber abgebrochen und noch für den Modultest 162 zu lernen Sprich Excel formeln und Umlet nochmal zu repetieren um mich so auf den Test vorzubereiten.
+
+## Arbeitspakete für 19.12.2023
+- [ ] AOC
+- [ ] AOC
+- [ ] AOC
