@@ -67,9 +67,16 @@ Gpt darauf gekommen ist. Dazu habe ich auch alles nötige in Notion angepasst so
 ## Arbeitspakete für 12.12.2023
 - [-] AOC Lösen
 
-Bemerkungen: Ich habe versucht beim AOC anzufangen, ich habe damit gestartet mir die Aufgabendurchzulesen und habe dann Videos dazu gechaut wie man am besten dabei vorgeht sie zu lösen. Nach ca 2 Stunden habe ich aber abgebrochen und noch für den Modultest 162 zu lernen Sprich Excel formeln und Umlet nochmal zu repetieren um mich so auf den Test vorzubereiten.
+Bemerkungen: Ich habe versucht beim AOC anzufangen, ich habe damit gestartet mir die Aufgaben durchzulesen und habe dann Videos dazu gechaut wie man am besten dabei vorgeht sie zu lösen. Nach ca 2 Stunden habe ich aber abgebrochen und noch für den Modultest 162 zu lernen Sprich Excel formeln und Umlet nochmal zu repetieren um mich so auf den Test vorzubereiten.
 
 ## Arbeitspakete für 19.12.2023
-- [ ] AOC
-- [ ] AOC
-- [ ] AOC
+- [x] AOC
+- [x] AOC
+- [x] AOC
+
+Bemerkungen: Ich habe heute wieder versucht das AOC Rätsel zu lösen und es so gut wie möglich versucht. Ich habe weitestgehend versucht es ohne jegliche Hilfe zu lösen, bin aber an einem Punkt nicht weiter gekommen und habe daher auf Reddit nach Tipps zu diesem Rätsel gesucht. Anschliessend ging es besser es zu lösen jedoch bin ich leider nicht fertig geworden.
+
+## Reflexion
+
+
+      
