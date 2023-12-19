@@ -78,5 +78,4 @@ Bemerkungen: Ich habe heute wieder versucht das AOC Rätsel zu lösen und es so 
 
 ## Reflexion
 
-
-      
+Ich habe gemerkt, dass ich im Gegensatz zur letzten Lernperiode viel besser geworden bin im Planen. Das habe ich erreicht, indem ich mir relativ viel Zeit genommen habe, einen guten und funktionierenden Plan in Notion erstellt habe, an dem ich mich orientieren kann. Er hat mir zudem auch geholfen, dass ich besser erkennen konnte, in dem ich mehr Zeit investieren muss. Zum Programmieren kann ich sagen, dass ich gelernt habe, wie man spezifisch Dinge Programmieren kann, jedoch will ich in den kommenden Ferien noch weiter an meinen praktisch anwendbaren Skills arbeiten und auch Gelerntes vom Anfang repetieren. Auch finde ich es sehr toll, wie Sie, als Lehrperson, versuchen uns Sachen beizubringen und uns den Stoff möglichst interessant rüberzubringen.
