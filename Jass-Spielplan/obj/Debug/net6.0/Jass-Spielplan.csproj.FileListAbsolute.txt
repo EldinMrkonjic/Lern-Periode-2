@@ -1,0 +1,14 @@
+C:\Users\Tom School\source\repos\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom School\source\repos\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.AssemblyInfoInputs.cache
+C:\Users\Tom School\source\repos\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.AssemblyInfo.cs
+C:\Users\Tom School\source\repos\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.csproj.CoreCompileInputs.cache
+C:\Users\Tom School\source\repos\Jass-Spielplan\bin\Debug\net6.0\Jass-Spielplan.exe
+C:\Users\Tom School\source\repos\Jass-Spielplan\bin\Debug\net6.0\Jass-Spielplan.deps.json
+C:\Users\Tom School\source\repos\Jass-Spielplan\bin\Debug\net6.0\Jass-Spielplan.runtimeconfig.json
+C:\Users\Tom School\source\repos\Jass-Spielplan\bin\Debug\net6.0\Jass-Spielplan.dll
+C:\Users\Tom School\source\repos\Jass-Spielplan\bin\Debug\net6.0\Jass-Spielplan.pdb
+C:\Users\Tom School\source\repos\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.dll
+C:\Users\Tom School\source\repos\Jass-Spielplan\obj\Debug\net6.0\refint\Jass-Spielplan.dll
+C:\Users\Tom School\source\repos\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.pdb
+C:\Users\Tom School\source\repos\Jass-Spielplan\obj\Debug\net6.0\Jass-Spielplan.genruntimeconfig.cache
+C:\Users\Tom School\source\repos\Jass-Spielplan\obj\Debug\net6.0\ref\Jass-Spielplan.dll
